@@ -1,0 +1,11 @@
+Project title : BankAccounts  
+
+  Assumptions:
+1. Users and accounts are uniquely identified by IDs.
+2. JWT is used for secure user authentication and authorization.
+3. Only authorized users with valid tokens can access protected API endpoints.
+4. Bank accounts belong to one specific customer and cannot be shared between multiple users unless POA is provided.
+5. Passwords will be securely hashed before storing them in the database; plain text passwords are never stored.
+6. CRUD operations (Create, Read, Update, Delete) are only available to users with sufficient privileges based on their roles.
+7. Token expiration and refresh mechanisms will be handled by the authentication service.
+8.Database used is SQL Server.

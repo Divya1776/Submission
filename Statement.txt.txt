@@ -1,0 +1,17 @@
+Project title : BankAccounts
+
+Problem statement:
+
+We are required to develop an API for the project BankAccounts - which includes users restricted to their roles and permissions,account types, multiple bank with different branches. 
+Also provide authentication and authorization using JWT tokens and role-based access control with permission inheritance.
+
+
+Requirements:
+1. Entities:
+   - Bank Customers Entities: customer informations.
+   - Roles and Permissions Entities: Define user roles and permissions
+   - Operations Entities: Banking transactions.
+2. JWTservice
+3. REST APIs
+4. Authorization:
+   - Role-based access control with limited permissions.
