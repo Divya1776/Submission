@@ -1,0 +1,14 @@
+D:\TVK\bin\Debug\net8.0\TVK.exe
+D:\TVK\bin\Debug\net8.0\TVK.deps.json
+D:\TVK\bin\Debug\net8.0\TVK.runtimeconfig.json
+D:\TVK\bin\Debug\net8.0\TVK.dll
+D:\TVK\bin\Debug\net8.0\TVK.pdb
+D:\TVK\obj\Debug\net8.0\TVK.GeneratedMSBuildEditorConfig.editorconfig
+D:\TVK\obj\Debug\net8.0\TVK.AssemblyInfoInputs.cache
+D:\TVK\obj\Debug\net8.0\TVK.AssemblyInfo.cs
+D:\TVK\obj\Debug\net8.0\TVK.csproj.CoreCompileInputs.cache
+D:\TVK\obj\Debug\net8.0\TVK.dll
+D:\TVK\obj\Debug\net8.0\refint\TVK.dll
+D:\TVK\obj\Debug\net8.0\TVK.pdb
+D:\TVK\obj\Debug\net8.0\TVK.genruntimeconfig.cache
+D:\TVK\obj\Debug\net8.0\ref\TVK.dll
